@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Contracts\Routing\ResponseFactory;
 use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Input;
 
 class GetDataController extends Controller
 {
